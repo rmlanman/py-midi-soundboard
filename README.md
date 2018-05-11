@@ -15,7 +15,7 @@ follows no practices nor conventions. Take at your own risk
  
 ### Installation
 
- 1. Set up your raspberry pi by using the NOOBS guide. I highly recommend only installing Raspbian LITE, as I ended up
+ 1. Set up your raspberry pi by using the [NOOBS guide](https://www.raspberrypi.org/learning/software-guide/quickstart/). I highly recommend only installing Raspbian LITE, as I ended up
 removing a few things that were taking up a ton of disk space on the full install.
  2. Create a directory `/opt/soundboard` and copy soundboard.py here
  3. Copy soundboard.conf.tpl to `/etc/soundboard.conf` and add your configurations
